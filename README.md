@@ -14,6 +14,8 @@ Standard redmine plugin installation: Copy it into plugins/ and configure the pl
 Just add a File to any of your projects and type in the description field welcome_picture.
 It will be displayed always the last added picture with the description "welcome_picture".
 
+Only allowed user can see the image. You can allow the view for users under the plugin configuration page.
+
 ## Screenshots
 
 A quick overview about this plugin, you'll get on https://berti92.github.io/welcome_picture/
