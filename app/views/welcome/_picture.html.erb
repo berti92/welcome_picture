@@ -1,9 +1,0 @@
-<%
-  pic = Attachment.where(["attachments.description = 'welcome_picture'"]).order("attachments.created_on DESC").first rescue nil
-  data = File.open(pic.diskfile).read rescue nil
-  bs_data = Base64.encode64(data) rescue nil
-%>
-
-<% if !pic.blank? && !bs_data.blank? && !pic.content_type.blank? && !Setting.plugin_welcome_picture['allowed_users'].blank? && Setting.plugin_welcome_picture['allowed_users'].include?(User.current.id.to_s) %>
-  <img src="data:<%= pic.content_type %>;base64,<%= bs_data %>">
-<% end %>
