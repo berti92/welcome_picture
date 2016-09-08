@@ -26,8 +26,8 @@ First release: Tested and stable.
 
 ## You like my work?
 
-If you like my work, you can buy me a coffee (Donate-Button on my [website](https://berti92.github.io/mega_calendar/)) or try my new app/game for android:
-[Circle commander](https://play.google.com/store/apps/details?id=de.devbert.circlecommander)
+If you like my work, you can buy me a coffee (Donate-Button on my [website](https://berti92.github.io/mega_calendar/)) or try my new browser game:
+<a href="http://sketcharama.com/">Sketcharama (currently only german)</a> 
 
 ## License
 
