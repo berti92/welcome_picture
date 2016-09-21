@@ -1,3 +1,5 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/aeadded55b044429b9ff4d6ae8686e00)](https://www.codacy.com/app/simplyanamedude/welcome_picture?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=berti92/welcome_picture&amp;utm_campaign=Badge_Grade)
+
 # welcome_picture
 
 Plugin for redmine: You can add a picture/gif to the mainpage.
