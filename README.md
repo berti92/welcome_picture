@@ -1,3 +1,6 @@
+[![Paypal Donate](https://img.shields.io/badge/Paypal-donate-blue.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=simplyanamedude@gmail.com&lc=GB&item_name=Andreas%20Treubert&no_note=0&currency_code=EUR&bn=PP-DonationsBF:btn_donate_LG.gif:NonHostedGuest)
+[![Twitter Follow](https://img.shields.io/badge/follow-twitter-blue.svg)](https://twitter.com/AppDevbert)
+
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/aeadded55b044429b9ff4d6ae8686e00)](https://www.codacy.com/app/simplyanamedude/welcome_picture?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=berti92/welcome_picture&amp;utm_campaign=Badge_Grade)
 
 # welcome_picture
